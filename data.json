@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "id": "3",
+      "name": "Jalapeno Hotdog",
+      "location": "Chicago, IL",
+      "rating": 4.2,
+      "image": "https://images.unsplash.com/photo-1536521642388-441263f88a61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "status": true
+    },
+    {
+      "id": "4",
+      "name": "Veggie Hotdog",
+      "location": "San Francisco, CA",
+      "rating": 3.9,
+      "image": "https://images.unsplash.com/photo-1536521642388-441263f88a61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "status": true
+    },
+    {
+      "id": "5",
+      "name": "Bacon Wrapped Hotdog",
+      "location": "Dallas, TX",
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1536521642388-441263f88a61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "status": true
+    },
+    {
+      "id": "6",
+      "name": "Kraut Hotdog",
+      "location": "Miami, FL",
+      "rating": 4.3,
+      "image": "https://images.unsplash.com/photo-1536521642388-441263f88a61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "status": true
+    },
+    {
+      "id": "7",
+      "name": "Chicago-style Hotdog",
+      "location": "Chicago, IL",
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1536521642388-441263f88a61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "status": true
+    },
+    {
+      "id": "8",
+      "name": "Corn Dog",
+      "location": "Kansas City, MO",
+      "rating": 4.1,
+      "image": "https://images.unsplash.com/photo-1536521642388-441263f88a61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "status": true
+    },
+    {
+      "id": "9",
+      "name": "Footlong Hotdog",
+      "location": "New York, NY",
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1536521642388-441263f88a61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "status": true
+    },
+    {
+      "id": "10",
+      "name": "Giant Hotdog",
+      "location": "Las Vegas, NV",
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1536521642388-441263f88a61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "status": true
+    },
+    {
+      "id": "fw8e7mmwrjq",
+      "name": "Testing the edit",
+      "location": "Maza aa gaya",
+      "image": "https://images.unsplash.com/photo-1624772413714-7e1ea3fbfeaf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "status": true
+    },
+    {
+      "id": "tZWf9Kb",
+      "name": "Test",
+      "location": "testafdafd",
+      "image": "https://images.unsplash.com/photo-1605153722912-f3359f0bbc52?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+      "status": true
+    }
+  ]
+}
